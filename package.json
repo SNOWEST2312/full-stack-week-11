@@ -5,6 +5,16 @@
   },
   "dependencies": {
     "express": "^5.3.0",
-    "node": "^27.0.0-alpha.0.1.1"
+    "node": "^27.0.0-alpha.0.1.1",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  },
+  "scripts": {
+    "build": "parcel build src/index.html --dist-dir express/public",
+    "watch": "parcel watch src/index.html --no-hmr --dist-dir express/public",
+    "start": "node app.js"
   }
 }
