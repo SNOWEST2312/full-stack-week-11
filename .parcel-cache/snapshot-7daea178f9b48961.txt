@@ -1,4 +1,5 @@
-4332
+4333
+49/workspaces/full-stack-week-11/GUIA_DESDE_CERO.md1795035447016072078 0
 41/workspaces/full-stack-week-11/.gitignore1795033983270962863 0
 59/workspaces/full-stack-week-11/node_modules/express/LICENSE1795034260553983552 0
 66/workspaces/full-stack-week-11/node_modules/express/lib/request.js1795034260795983570 0
@@ -431,7 +432,7 @@
 61/workspaces/full-stack-week-11/node_modules/@parcel/codeframe1795034297051986276 1
 85/workspaces/full-stack-week-11/node_modules/@parcel/optimizer-svg/lib/SVGOptimizer.js1795034296185986211 0
 69/workspaces/full-stack-week-11/node_modules/@parcel/optimizer-svg/lib1795034296109986205 1
-41/workspaces/full-stack-week-11/README2.md1795034638477011750 0
+41/workspaces/full-stack-week-11/README2.md1795035015813039905 0
 69/workspaces/full-stack-week-11/node_modules/@parcel/optimizer-svg/src1795034296230986214 1
 64/workspaces/full-stack-week-11/node_modules/@parcel/rust/LICENSE1795034295836986185 0
 69/workspaces/full-stack-week-11/node_modules/@parcel/rust/lib/index.js1795034296328986222 0
@@ -2829,7 +2830,7 @@
 83/workspaces/full-stack-week-11/node_modules/@swc/helpers/_/_tagged_template_literal1795034298053986350 1
 66/workspaces/full-stack-week-11/node_modules/color-convert/route.js1795034295782986181 0
 69/workspaces/full-stack-week-11/node_modules/@swc/helpers/src/_set.mjs1795034298213986362 0
-37/workspaces/full-stack-week-11/app.js1795034403566994223 0
+37/workspaces/full-stack-week-11/app.js1795035395074068202 0
 89/workspaces/full-stack-week-11/node_modules/@swc/helpers/src/_tagged_template_literal.mjs1795034298220986363 0
 78/workspaces/full-stack-week-11/node_modules/@parcel/workers/src/core-worker.js1795034296653986246 0
 77/workspaces/full-stack-week-11/node_modules/caniuse-lite/data/features/wav.js1795034299072986426 0
@@ -3106,7 +3107,7 @@
 78/workspaces/full-stack-week-11/node_modules/caniuse-lite/data/features/woff.js1795034299094986428 0
 63/workspaces/full-stack-week-11/node_modules/router/package.json1795034260506983549 0
 82/workspaces/full-stack-week-11/node_modules/@parcel/transformer-babel/src/utils.js1795034296913986265 0
-30/workspaces/full-stack-week-111795034639309011812 1
+30/workspaces/full-stack-week-111795035447016072078 1
 90/workspaces/full-stack-week-11/node_modules/@swc/helpers/_/_iterable_to_array/package.json1795034298015986348 0
 85/workspaces/full-stack-week-11/node_modules/caniuse-lite/data/features/sql-storage.js1795034298950986417 0
 87/workspaces/full-stack-week-11/node_modules/@parcel/compressor-raw/lib/RawCompressor.js1795034296232986214 0
