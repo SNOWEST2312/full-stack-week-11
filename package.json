@@ -11,10 +11,5 @@
   },
   "devDependencies": {
     "parcel": "^2.16.4"
-  },
-  "scripts": {
-    "build": "parcel build src/index.html --dist-dir express/public",
-    "watch": "parcel watch src/index.html --no-hmr --dist-dir express/public",
-    "start": "node app.js"
   }
 }
