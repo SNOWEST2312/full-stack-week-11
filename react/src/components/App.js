@@ -4,6 +4,8 @@
 // Our goal: use this API to make an application in which users can browse different types of dogs and view images of their chosen dog type.
 
 import { useEffect, useState } from 'react';
+import comments from './comments';
+
 const App = (props) => {
   // This data will be loaded from the API eventually
   const [dogTypes, setDogTypes] = useState([]);
@@ -52,6 +54,7 @@ const App = (props) => {
   return (
     <>
       <h1>Hello React Components!</h1>
+      {/* The below component will allow the user to submit a new comment and see all previus  */}
       <h2>Chosen dog type is: {chosenDogType}</h2>
       {chosenDogType ? <image src={image} style={{ height: '200px' }} /> : <></>}
       <ul>
